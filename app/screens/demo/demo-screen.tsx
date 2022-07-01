@@ -15,7 +15,7 @@ import { NavigatorParamList } from "../../navigators"
 import { color, spacing } from "../../theme"
 import { Api } from "../../services/api"
 import { save } from "../../utils/storage"
-export const logoIgnite = require("./logo-ignite.png")
+export const logoIgnite = require("./rn-owl-badge.png")
 export const heart = require("./heart.png")
 
 const FULL: ViewStyle = { flex: 1 }
@@ -63,7 +63,7 @@ const IGNITE: ImageStyle = {
   marginVertical: spacing[6],
   alignSelf: "center",
   width: 180,
-  height: 100,
+  height: 180,
 }
 const LOVE_WRAPPER: ViewStyle = {
   flexDirection: "row",
