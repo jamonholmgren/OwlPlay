@@ -1,0 +1,11 @@
+{
+  "ios": {
+    "workspace": "ios/OwlPlay.xcworkspace",
+    "scheme": "OwlPlay",
+    "configuration": "Release",
+    "device": "iPhone 13"
+  },
+  "android": {
+    "packageName": "com.owlPlay"
+  }
+}
